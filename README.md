@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Programmer</h3>
 
 <h3 align="left">Connect with me: mohitgupta8692@gmail.com</h3>
 <p align="left">
